@@ -59,9 +59,6 @@ These things must be installed in your system.
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/DebjitPramanick/Hotel-Booking-Web-App.git
-   ```
 2. Open the project folder
 4. Now open MongoDB
 5. Create a database collection
